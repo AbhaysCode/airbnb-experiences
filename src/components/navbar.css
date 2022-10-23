@@ -1,0 +1,11 @@
+.logo{
+    width:4.6rem;
+}
+.navbar{
+    display:flex;
+    justify-content:start;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+.brand-name{
+    color:red;
+}

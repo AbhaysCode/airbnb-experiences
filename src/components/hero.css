@@ -1,0 +1,11 @@
+.hero-image{
+    height:40vh;
+}
+.image-container{
+    display:flex;
+    justify-content:center;
+}
+header{
+    padding:1rem;
+    font-family: 'Nunito', sans-serif;
+}
